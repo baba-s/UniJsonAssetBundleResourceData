@@ -6,7 +6,7 @@ using UnityEngine.ResourceManagement;
 using UnityEngine.ResourceManagement.ResourceLocations;
 using UnityEngine.ResourceManagement.ResourceProviders;
 
-namespace UniAddressLib
+namespace Kogane
 {
 	/// <summary>
 	/// アセットバンドルダウンロード時の情報を JSON の文字列に変換するためのクラス
