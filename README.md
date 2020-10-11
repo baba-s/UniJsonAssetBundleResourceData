@@ -23,7 +23,7 @@ public sealed class CustomAssetBundleResource : IAssetBundleResource
 {
     "url": "http://hoge/hoge.unity_scenes_all.bundle",
     "hash": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "crc": XXXXXXXXXX,
+    "crc": 0000000000,
     "timeout": 30,
     "redirectLimit": -1,
     "retryCount": 2,
